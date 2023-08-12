@@ -1,3 +1,3 @@
 # git-merge-test
 
-Hello Earth!
+Hello World!
