@@ -1,3 +1,3 @@
 # git-merge-test
 
-Hello World!
+Use this repo to test Git funtionalities such as merge conflicts, squashes etc.
