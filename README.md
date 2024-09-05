@@ -11,3 +11,6 @@
   - Following these commands the branch was how I expected leaving no trace of the feature branch and keeping the "trunk" linear.
 
 - If you do not delete the branch after rebasing, and then push to it again, you end up with a `merge conflict`?
+- I think you have to get onto the "loose" branch that is hanging around, and rebase it into a previous commit.
+
+- attempting to create
